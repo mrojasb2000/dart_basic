@@ -30,4 +30,9 @@ void main() {
 
   bool isActive = true;
   bool allowed = false;
+
+  // Null safety
+  //bool successfully = null; // A value of type 'Null' can't be assigned to a variable of type 'bool'.
+
+  bool? successfully = null; // Allowed null, true or false
 }
