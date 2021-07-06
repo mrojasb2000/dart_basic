@@ -17,4 +17,12 @@ void main() {
 
   // Template strings
   print('$firstname $lastname');
+
+  // Numbers
+
+  int employees = 10;
+  double salary = 1800;
+
+  print('employees: $employees');
+  print('salary: $salary');
 }
