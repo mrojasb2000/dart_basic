@@ -25,4 +25,9 @@ void main() {
 
   print('employees: $employees');
   print('salary: $salary');
+
+  // Booleans
+
+  bool isActive = true;
+  bool allowed = false;
 }
